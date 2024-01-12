@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Fazil",
+    "address": "Bengaluru South, near airport",
+    "city": "Dabaspet",
+    "country": "India",
+    "pincode": "572101",
+    "sat_score": 99,
+    "Result": "Pass"
+  },
+  {
+    "name": "ramesh",
+    "address": "near red color gate",
+    "city": "Hubli",
+    "country": "India",
+    "pincode": "561998",
+    "sat_score": 31,
+    "Result": "Pass"
+  }
+]
